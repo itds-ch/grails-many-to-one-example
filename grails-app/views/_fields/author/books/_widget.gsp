@@ -1,0 +1,1 @@
+<g:select name="${property}" value="${value}" from="${ch.itds.demo.mto.Book.list()}" optionKey="id" multiple="true" />
